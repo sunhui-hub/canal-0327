@@ -8,7 +8,7 @@
 ## 漏洞修复
 ### 修改pom文件依赖版本
 - ch.qos.logback				  logback-classic						1.2.8
-- ch.qos.logback				  logback-core							1.2.8;
+- ch.qos.logback				  logback-core							1.2.8
 - com.h2database				  h2										    2.1.210
 - commons-beanutils			  commons-beanutils					1.9.4
 - commons-collections			commons-collections				3.2.2
