@@ -5,6 +5,31 @@
 [![average time to resolve an issue](http://isitmaintained.com/badge/resolution/alibaba/canal.svg)](http://isitmaintained.com/project/alibaba/canal "average time to resolve an issue")
 [![percentage of issues still open](http://isitmaintained.com/badge/open/alibaba/canal.svg)](http://isitmaintained.com/project/alibaba/canal "percentage of issues still open")
 
+## 漏洞修复
+### 修改pom文件依赖版本
+ch.qos.logback				  logback-classic						1.2.8
+ch.qos.logback				  logback-core							1.2.8
+com.h2database				  h2										    2.1.210
+commons-beanutils			  commons-beanutils					1.9.4
+commons-collections			commons-collections				3.2.2
+io.netty					      netty-all								  4.1.68.Final
+org.apache.commons			commons-compress					1.21
+org.apache.ddlutils			ddlutils								  1.0
+org.apache.kafka			  kafka-clients							2.4.1
+org.apache.rocketmq			rocketmq-client						4.8.0
+org.apache.zookeeper		zookeeper								  3.5.6
+org.elasticsearch			  elasticsearch							7.15.2
+org.elasticsearch.client	transport								7.15.2
+org.elasticsearch.client	elasticsearch-rest-client				7.15.2
+org.elasticsearch.client	elasticsearch-rest-high-level-client	7.15.2
+org.jboss.netty				  netty									    3.2.10.Final
+org.mybatis					    mybatis									  3.5.6
+org.postgresql				  postgresql								42.3.3
+org.springframework			spring-core								5.3.9
+org.springframework			spring-aop								5.3.9
+org.yaml					      snakeyaml								  1.29
+
+
 ## 简介
 
 ![](https://img-blog.csdnimg.cn/20191104101735947.png)
